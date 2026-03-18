@@ -12,3 +12,4 @@ C:\Entorns de Desenvolupament\Arkanoid\Arkanoid\obj\Debug\net10.0\refint\Arkanoi
 C:\Entorns de Desenvolupament\Arkanoid\Arkanoid\obj\Debug\net10.0\Arkanoid.pdb
 C:\Entorns de Desenvolupament\Arkanoid\Arkanoid\obj\Debug\net10.0\Arkanoid.genruntimeconfig.cache
 C:\Entorns de Desenvolupament\Arkanoid\Arkanoid\obj\Debug\net10.0\ref\Arkanoid.dll
+C:\Entorns de Desenvolupament\Arkanoid\Arkanoid\obj\Debug\net10.0\Arkanoid.sourcelink.json
