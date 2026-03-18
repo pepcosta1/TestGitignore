@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Entorns de Desenvolupament\\Arkanoid\\Arkanoid\\Arkanoid.csproj": {}
+    "C:\\Entorns de Desenvolupament\\Arkanoid\\arkanoid\\Arkanoid.csproj": {}
   },
   "projects": {
-    "C:\\Entorns de Desenvolupament\\Arkanoid\\Arkanoid\\Arkanoid.csproj": {
+    "C:\\Entorns de Desenvolupament\\Arkanoid\\arkanoid\\Arkanoid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Entorns de Desenvolupament\\Arkanoid\\Arkanoid\\Arkanoid.csproj",
+        "projectUniqueName": "C:\\Entorns de Desenvolupament\\Arkanoid\\arkanoid\\Arkanoid.csproj",
         "projectName": "Arkanoid",
-        "projectPath": "C:\\Entorns de Desenvolupament\\Arkanoid\\Arkanoid\\Arkanoid.csproj",
+        "projectPath": "C:\\Entorns de Desenvolupament\\Arkanoid\\arkanoid\\Arkanoid.csproj",
         "packagesPath": "C:\\Users\\ggrre\\.nuget\\packages\\",
-        "outputPath": "C:\\Entorns de Desenvolupament\\Arkanoid\\Arkanoid\\obj\\",
+        "outputPath": "C:\\Entorns de Desenvolupament\\Arkanoid\\arkanoid\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
