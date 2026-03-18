@@ -1,0 +1,14 @@
+C:\Entorns de Desenvolupament\Arkanoid\Arkanoid\bin\Debug\net10.0\Arkanoid.exe
+C:\Entorns de Desenvolupament\Arkanoid\Arkanoid\bin\Debug\net10.0\Arkanoid.deps.json
+C:\Entorns de Desenvolupament\Arkanoid\Arkanoid\bin\Debug\net10.0\Arkanoid.runtimeconfig.json
+C:\Entorns de Desenvolupament\Arkanoid\Arkanoid\bin\Debug\net10.0\Arkanoid.dll
+C:\Entorns de Desenvolupament\Arkanoid\Arkanoid\bin\Debug\net10.0\Arkanoid.pdb
+C:\Entorns de Desenvolupament\Arkanoid\Arkanoid\obj\Debug\net10.0\Arkanoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Entorns de Desenvolupament\Arkanoid\Arkanoid\obj\Debug\net10.0\Arkanoid.AssemblyInfoInputs.cache
+C:\Entorns de Desenvolupament\Arkanoid\Arkanoid\obj\Debug\net10.0\Arkanoid.AssemblyInfo.cs
+C:\Entorns de Desenvolupament\Arkanoid\Arkanoid\obj\Debug\net10.0\Arkanoid.csproj.CoreCompileInputs.cache
+C:\Entorns de Desenvolupament\Arkanoid\Arkanoid\obj\Debug\net10.0\Arkanoid.dll
+C:\Entorns de Desenvolupament\Arkanoid\Arkanoid\obj\Debug\net10.0\refint\Arkanoid.dll
+C:\Entorns de Desenvolupament\Arkanoid\Arkanoid\obj\Debug\net10.0\Arkanoid.pdb
+C:\Entorns de Desenvolupament\Arkanoid\Arkanoid\obj\Debug\net10.0\Arkanoid.genruntimeconfig.cache
+C:\Entorns de Desenvolupament\Arkanoid\Arkanoid\obj\Debug\net10.0\ref\Arkanoid.dll
