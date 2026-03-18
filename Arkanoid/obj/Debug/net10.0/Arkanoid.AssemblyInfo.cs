@@ -13,11 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Arkanoid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5eec99786fbf55616db7f3dd672d19b0f337c01b")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d40744475ab87b71f20604df4b68859a55e70d11")]
->>>>>>> nova_branca
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27e1adddcf00da18a1266910cf1f62e21ccb888f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Arkanoid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Arkanoid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
